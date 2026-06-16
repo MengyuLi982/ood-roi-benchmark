@@ -192,7 +192,6 @@ All scripts can be called from the repo root. Paths below are relative to the ro
 | ROI schematic overview | `python src/visualization/make_roi_figure.py --image <img> --label <gt>` | `results/figures/roi_schematic/roi_variants.pdf` |
 | SMIYC heatmap grids (Ch. 4) | `python src/visualization/visualize_smiyc_heatmaps.py [--track <Track>] [--imgs …]` | `results/smiyc/<Track>/heatmaps/<stem>_roi.png` — images auto-selected per track: 2 best + 1 median + 2 worst by per-image AUROC |
 
-<!-- TODO(Gerd): verify image names against the final thesis figure list. -->
 
 ---
 
