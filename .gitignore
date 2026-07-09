@@ -35,3 +35,6 @@ results/*
 *.log
 *_tmp*
 *.zip
+
+# Local maintenance scripts
+rewrite_claude_author.py
