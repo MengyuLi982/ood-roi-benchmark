@@ -239,3 +239,4 @@ How the RbA maps were created is documented in [`colab/README.md`](colab/README.
 - PixOOD: Vojíř et al., 2024 — https://github.com/vojirt/PixOOD
 - DINOv2: Oquab et al., 2023
 - SegFormer: Xie et al., 2021 — checkpoint `nvidia/segformer-b2-finetuned-cityscapes-1024-1024`
+
